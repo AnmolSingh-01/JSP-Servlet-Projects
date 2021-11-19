@@ -1,5 +1,6 @@
 # JSP-Project
 <b> I have used basic JSP codes to demonstrate the working of JSP...</b>
+<hr>
 <ol>
 
 <li>  I have made a to do list using JSP </li>
